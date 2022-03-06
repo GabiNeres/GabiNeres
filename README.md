@@ -12,7 +12,7 @@
   📚 &nbsp; Ama ler e jogar nas horas vagas
 </div>
 </div>
-
+<br>
 <hr>
 
 <div align="center">
