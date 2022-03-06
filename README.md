@@ -1,11 +1,21 @@
-# Oiii, me chamo Gabriela Neres!
+<h1 align="center"> Oiii, me chamo Gabriela (Gabi) 💕 </h1>
+
+<div>
+<div align="left">
+  <img align="left" alt="Gabi-pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/941825356317462608/947212164580671578/download20220206163128.png?width=676&height=676">
+  <h4> Sobre mim ✨ </h4>
+  - 💻 &nbsp; Estudante de Tecnologia da Informação
+  - 👀 &nbsp; Interessada em Ciência da Computação
+  - 📚 &nbsp; Ama ler e jogar nas horas vagas
+</div>
+</div>
+<hr>
 <div align="center">
   <a href="https://github.com/gabineres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabineres&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabineres&layout=compact&langs_count=7&theme=cobalt"/>
  
 </div>
-<img align="right" alt="Gabi-pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/941825356317462608/947212164580671578/download20220206163128.png?width=676&height=676">
   
  <div  style="display: inline_block"><br>
   <center><img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
