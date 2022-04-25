@@ -2,7 +2,7 @@
 
 <div>
 <div align="">
-  <img align="left" alt="Gabi-pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/941825356317462608/947212164580671578/download20220206163128.png?width=676&height=676">
+  <img align="left" alt="Gabi-pic" height="150" style="border-radius:100px;" src="https://media.discordapp.net/attachments/941825356317462608/968288872524021800/download20220206163128.png?width=473&height=473">
   <h4> Sobre mim ✨ </h4>
   
   💻 &nbsp; Estudante de Tecnologia da Informação
