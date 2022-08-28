@@ -7,7 +7,7 @@
   
   💻 &nbsp; Estudante de Tecnologia da Informação;
   
-  👀 &nbsp; Interessada em Bioinformática e Inteligência Artificial
+  👀 &nbsp; Interessada em Bioinformática e Inteligência Artificial;
   
   📚 &nbsp; Ama ler e jogar nas horas vagas;
 </div>
