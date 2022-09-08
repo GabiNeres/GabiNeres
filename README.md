@@ -5,11 +5,11 @@
   <img align="left" alt="Gabi-pic" height="150" style="border-radius:100px;" src="https://media.discordapp.net/attachments/941825356317462608/968288872524021800/download20220206163128.png?width=473&height=473">
   <h4> Sobre mim ✨ </h4>
   
-  💻 &nbsp; Estudante de Tecnologia da Informação;
+  💻 &nbsp; Estudante de Tecnologia da Informação, com ênfase em Computação;
   
   👀 &nbsp; Interessada em Bioinformática e Inteligência Artificial;
   
-  📚 &nbsp; Ama ler e jogar nas horas vagas;
+  📚 &nbsp; Ama livros clássicos, jogos pixelados e histórias de terror;
 </div>
 </div>
 <br>
