@@ -6,7 +6,7 @@
   
   💻 &nbsp; Estudante e pesquisadora;
   
-  👀 &nbsp; Interessada em Estatística, Ciência de Dados, Bioinformática, Inteligência Artificial, Ecologia, Sustentabilidade e Educação Ambiental, ;
+  👀 &nbsp; Interessada em Estatística, Ciência de Dados, Bioinformática, Inteligência Artificial e Ecologia;
   
   📚 &nbsp; Respirando livros e natureza;
 </div>
