@@ -4,11 +4,11 @@
 <div align="">
   <h4> Sobre mim ✨ </h4>
   
-  💻 &nbsp; Mestranda em Ecologia e estudante de Tecnologia da Informação;
+  💻 &nbsp; Estudante e pesquisadora;
   
-  👀 &nbsp; Interessada em Ecologia, Sustentabilidade, Educação Ambiental, Bioinformática, Ciência de Dados e Inteligência Artificial;
+  👀 &nbsp; Interessada em Estatística, Ciência de Dados, Bioinformática, Inteligência Artificial, Ecologia, Sustentabilidade e Educação Ambiental, ;
   
-  📚 &nbsp; Ama livros clássicos, jogos pixelados e histórias de terror;
+  📚 &nbsp; Respirando livros e natureza;
 </div>
 </div>
 <br>
