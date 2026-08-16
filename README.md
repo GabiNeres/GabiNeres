@@ -26,7 +26,7 @@
 <div align="center">
   <a href="https://github.com/gabineres">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=gabineres&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabineres&hide_progress=true&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabineres&hide_progress=true&langs_count=8&theme=omni"/>
 </div>
   
   ##
