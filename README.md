@@ -1,39 +1,41 @@
-<h1 align="center"> Oiii, me chamo Gabriela (Gabi) 💕 </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=Hi,+I+am+Gabi...;Full+Stack+Developer;Be+welcome!+:)"/>
 
 <div>
-<div align="">
-  <h4> Sobre mim ✨ </h4>
+<div align="">  
   
-  💻 &nbsp; Estudante e pesquisadora;
+  💻 &nbsp; Student of Information Technology;
   
-  👀 &nbsp; Interessada em Estatística, Ciência de Dados, Bioinformática, Inteligência Artificial e Ecologia;
+  👀 &nbsp; Experience in Data Science, Bioinformatics, Artificial Intelligence and Quantitative Ecology;
   
-  📚 &nbsp; Respirando livros e natureza;
+  📚 &nbsp; Focusing on Full Stack Development;
 </div>
 </div>
 <br>
-<hr>
+
+## ⚡ Tech Stack
 
 <div align="center">
-  <a href="https://github.com/gabineres">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=gabineres&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabineres&layout=compact&langs_count=7&theme=cobalt"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,r,git,github&perline=5"/>
+
 </div>
-  
- <div align="center"><br>
-  <center><img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabi-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></center>
+
+<br>
+<div align="center">
+  <a href="https://github.com/gabineres">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=gabineres&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabineres&hide_progress=true&langs_count=7&theme=omni"/>
 </div>
   
   ##
   <div align="center">
-  <h4> ✨ Outros contatos ✨ </h4>
+  <h4> ✨ Connect with me ✨ </h4>
     <a href="mailto:gubyneres@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/gabineres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/gabbineres/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href="mailto:gabriela-neres@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
   </div>
  
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=footer"/>
