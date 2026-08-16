@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=120&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=Hi,+I+am+Gabi...;Full+Stack+Developer;Be+welcome!+:)"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=ff79c6&center=true&vCenter=true&width=900&lines=Hi,+I+am+Gabi...;Full+Stack+Developer;Be+welcome!+:)"/>
 
 <div>
 <div align="">  
@@ -38,4 +38,4 @@
     <a href="mailto:gabriela-neres@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
   </div>
  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=120&section=footer"/>
