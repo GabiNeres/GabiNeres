@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=120&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=ff79c6&center=true&vCenter=true&width=900&lines=Hi,+I+am+Gabi...;Full+Stack+Developer;Be+welcome!+:)"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=ff79c6&center=true&vCenter=true&width=900&lines=Hi,+I+am+Gabi...;IT+Student;Be+welcome!+:)"/>
 
 <div>
 <div align="">  
@@ -18,8 +18,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,r,git,github&perline=5"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp&perline=7"/>
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,spring&perline=5"/>
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,git,github&perline=5"/>
 </div>
 
 <br>
